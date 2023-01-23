@@ -1,9 +1,11 @@
 import './style.css'
 
+// Dados da variável
 import { gameListData } from './dataVariables/variables'
 import { channelListData } from './dataVariables/variables'
 import { imgSocialNetworks } from './dataVariables/variables'
 
+// Components
 import { Header } from './components/Header'
 import { Section } from './components/Section'
 import { ListItem } from './components/ListItem'
